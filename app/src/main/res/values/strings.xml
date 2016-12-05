@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DynamicFragment</string>
+
+    <string name="hello_blank_fragment">Fragment B text</string>
+    <string name="change">Change text in fragment B</string>
+    <string name="aboutus">
+        <![CDATA[
+            <h1>Static fragment</h1>
+            <h2>Ejercicio de clase</h2>
+            <p>Este ejercicio muestra un pequeño ejemplo de como crear <u>un Fragment</u></p>
+            <ol>
+                <li>Uno</li>
+                <li>Dos</li>
+            </ol>
+        ]]>
+    </string>
+</resources>
